@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="logo">logo</string>
+    <string name="nameGame">Tic Tac Toe</string>
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">Sign up</string>
+    <string name="emailTitle">Email</string>
+    <string name="passwordTitle">Password</string>
+    <string name="join_lobby">Join Lobby</string>
+    <string name="create_lobby">Create Lobby</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="next_title">Next</string>
+    <string name="room_id">Room ID</string>
+    <string name="join">Join</string>
+    <string name="create">Create</string>
+    <string name="leave">Leave</string>
+
+</resources>
